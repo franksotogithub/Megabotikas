@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3386297634">
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - PruebaDjango@localhost" uuid="98e4dc13-2743-415f-8c58-109d92202477">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost:1433;databaseName=PruebaDjango</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - ADESYNETCONSOLIDADOR_MEGABOTIKAS@192.168.1.100" uuid="0df1ada2-0015-42b3-9e04-7fed77d7755f">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.1.100:1433;databaseName=ADESYNETCONSOLIDADOR_MEGABOTIKAS</jdbc-url>
+    </data-source>
+  </component>
+</project>

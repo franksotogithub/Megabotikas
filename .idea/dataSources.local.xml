@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQL Server (Microsoft) - PruebaDjango@localhost" uuid="98e4dc13-2743-415f-8c58-109d92202477">
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <schema-pattern>PruebaDjango.*</schema-pattern>
+      <default-schemas>PruebaDjango.*</default-schemas>
+    </data-source>
+    <data-source name="SQL Server (Microsoft) - ADESYNETCONSOLIDADOR_MEGABOTIKAS@192.168.1.100" uuid="0df1ada2-0015-42b3-9e04-7fed77d7755f">
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <schema-pattern>ADESYNETCONSOLIDADOR_MEGABOTIKAS.*</schema-pattern>
+      <default-schemas>master.*</default-schemas>
+    </data-source>
+  </component>
+</project>
